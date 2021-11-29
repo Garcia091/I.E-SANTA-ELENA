@@ -1,0 +1,58 @@
+EJERCICIOS PARA DECIMO - CLASE 15 DE ABRIL
+
+1. Desarrolle un algoritmo que lea dos valores y calcule el 20% de cada uno.
+
+2. Se requiere un algoritmo para elaborar la planilla de pago de un trabajador.
+ Para ello se dispone de sus horas laboradas en el mes, así como de la tarifa por hora.
+
+
+EJERCICOS PARA ONCE - CLASE 21 DE ABRIL (ORGANIZACION MASIVA DEL INTERNET EN LA ZONA Y 
+MUCHOS ESTUDIANTES SE VEN AFECTADOS PARA LA CONECTIVIDAD, SE REALIZA ASESORIA VIA WP 
+DURANTE LA JORNADA.)
+
+1. Desarrolle un algoritmo que permita leer tres valores y almacenarlos en las variables A, B y C
+respectivamente. El algoritmo debe imprimir cual es el mayor y cual es el menor. Recuerde constatar que
+los tres valores introducidos por el teclado sean valores distintos. Presente un mensaje de alerta en caso de
+que se detecte la introducción de valores iguales.
+
+1. Inicio
+2. Inicializar las variables A, B y C
+3. Leer los tres valores
+4. Almacenar en las variables A, B
+y C
+5. Si A > B y A > C Entonces
+6. Escribir A “Es el mayor”
+7. Sino
+8. Si B > A y B > C Entonces
+9. Escribir B “Es el mayor”
+10. Sino
+11. Escribir C “Es el mayor”
+12. Fin_Si
+13. Fin_Si
+14. Fin
+
+
+
+
+2. Desarrolle un algoritmo que permita determinar el área y volumen de un cilindro dado su radio (R) y
+altura (H).
+
+1. Inicio
+2. Declaración de variables: R = 0, H = 0
+3. Leer el valor de Radio (R) y Altura (H)
+4. Calcular el Volumen aplicando la fórmula
+5. Calcular el valor del área aplicando la
+fórmula respectiva
+6. Escribir el valor del Área y del Volumen
+7. Fin
+
+
+3. Se requiere un algoritmo para elaborar la planilla de pago de un trabajador.
+ Para ello se dispone de sus horas laboradas en el mes, así como de la tarifa por hora.
+
+Inicio
+Leer HL
+Leer TH
+P= HL*TH
+Escribir P
+Fin
